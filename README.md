@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm forecho, A Web development engineer, I use PHP/Python/Golang. ...
+I'm Cyril Wong, I am a student, I use PHP/Html/CSS/JS. ...
 
 Here are some ideas to get you started:
 
