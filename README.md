@@ -2,9 +2,6 @@
 
 I'm forecho, A Web development engineer, I use PHP/Python/Golang. ...
 
-<!--
-**ikym/ikym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 telescope I’m currently working on Shenzhen ...
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 house Blog: forecho's Blog ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**ikym/ikym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
