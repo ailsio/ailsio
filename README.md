@@ -9,13 +9,11 @@
 ````
 ````bash
 > help --contact
-> ⚡ house Blog: [柒子](https://qizi.org) ...
-> github: FuShoLei
-> email: 1563250958@qq.com
+> house Blog: [柒子](https://qizi.org) ...
+> email: i@lia.im...
 ````
 
-
-![](https://github-readme-stats.vercel.app/api?username=FuShaoLei&show_icons=true&hide=[%22issues%22])
+![](https://github-readme-stats.vercel.app/api?username=ikym&show_icons=true&hide=[%22issues%22])
 
 <!--
 **ikym/ikym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
