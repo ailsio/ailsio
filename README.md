@@ -13,6 +13,8 @@
 > email: i@lia.im...
 ````
 
+Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
+
 ![](https://github-readme-stats.vercel.app/api?username=ikym&show_icons=true&hide=[%22issues%22])
 
 <!--
