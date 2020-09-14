@@ -1,6 +1,6 @@
-<h2> Hi, I'm Cyril Wong! <img src="https://test.ihwro.com/git/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Cyril Wong! <img src="https://test.lia.im/git/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://test.ihwro.com/git/20200717001629.gif" width="80">
+<img align='right' src="https://test.lia.im/git/20200717001629.gif" width="80">
 
 ````bash
 > help --info
@@ -9,7 +9,7 @@
 ````
 ````bash
 > help --contact
-> house Blog: [拾柒](https://ihwro.com) ...
+> house Blog: [拾柒](https://lia.im) ...
 > email: i@lia.im...
 ````
 
