@@ -1,10 +1,6 @@
-<h2> Hi there :) <img src="/media/files/giphy.gif" width="50"></h2>
+Hi there :)
+💬 I'm Cyril Wong, I use PHP/Html/CSS/JS. ...
 
-<img align='right' src="/media/files/20200717001629.gif" width="80">
-
-````bash
-> 💬 I'm Cyril Wong, I use PHP/Html/CSS/JS. ...
-````
 
 <a href="https://cyrilwong.mit-license.org/"><img src="https://img.shields.io/github/license/ikym/mit-license?style=flat-square.svg" alt="License"></a></br>
 Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
