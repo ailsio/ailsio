@@ -1,6 +1,6 @@
 ### Hi there :)   
 
-I'm Cyril Wong, I use PHP/Html/CSS/JS. ...
+I use PHP/Html/CSS/JS. ...
 
 ![](https://github-readme-stats.vercel.app/api?username=cyrilsoy&show_icons=true&hide=[%22issues%22])
 
