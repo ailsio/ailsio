@@ -1,10 +1,8 @@
-<h2> Hi, I'm Cyril Wong! <img src="/media/files/giphy.gif" width="50"></h2>
+<h2> Hi there :) <img src="/media/files/giphy.gif" width="50"></h2>
 
 <img align='right' src="/media/files/20200717001629.gif" width="80">
 
 ````bash
-> help --info
-> Hi there :)
 > 💬 I'm Cyril Wong, I use PHP/Html/CSS/JS. ...
 ````
 
