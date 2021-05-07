@@ -2,7 +2,7 @@
 
 I use PHP/Html/CSS/JS. ...
 
-Unless otherwise stated, everything on this GitHub is released under the [MIT](https://raw.githubusercontent.com/hsce/hsce/master/LICENSE) license.
+Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
 
 ![](https://github-readme-stats.vercel.app/api?username=hsce&show_icons=true&hide=[%22issues%22])
 
