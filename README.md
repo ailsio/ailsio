@@ -1,6 +1,8 @@
 ### Hi there :)   
 
-I use PHP/Html/CSS/JS. ...
+I'm Cyril. I'm a developer.
+
+That rug really tied the room together.
 
 Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
 
