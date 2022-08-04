@@ -1,8 +1,12 @@
 ### Hi there :)   
 
-I'm Cyril. I'm a developer.
-
-That rug really tied the room together.
+#noslite { 
+  position: >/dev/null; 
+  height: 170cm; 
+  display: boy; 
+  background: Tinker Resolver 🔨; 
+  color: green 
+}
 
 Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
 
