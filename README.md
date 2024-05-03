@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 ```css
 #noslite { 
   position: >/dev/null; 
@@ -18,7 +7,3 @@
   color: green 
 }
 ```
-
-### My Github Contributions
-
-![](https://raw.githubusercontent.com/nov23e/nov23e/main/assets/github-contribution-grid-snake.svg)              
